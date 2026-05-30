@@ -24,16 +24,6 @@ Futur expert en **IA & Data Science**, je combine une solide polyvalence techniq
 
 ---
 
-## 🚀 Projets phares mis en avant
-
-### 🎮 [Concert Hall Project](https://github.com/clement-faure2/Bibliotheques_Jeux_Angular_Dart)
-Plateforme multiplateforme de gestion de bibliothèques de jeux vidéos personnalisées.
-- **Web :** Angular (TypeScript, SCSS) déployé sur Firebase App Hosting.
-- **Mobile :** Application native en Dart / Flutter (en cours).
-- **Backend :** Base de données centralisée en temps réel via Firestore et Firebase Auth.
-
----
-
 ## 👤 Me contacter & En savoir plus
 - 💼 **LinkedIn :** [@clément-faure-218713393](https://linkedin.com/in/clément-faure-218713393/)
 - 📧 **Email :** clemfaure89@gmail.com
