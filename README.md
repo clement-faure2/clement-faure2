@@ -1,26 +1,26 @@
 # 👋 Bonjour à tous je m'appelle Clément Faure !
 
-[cite_start]Futurs expert en **IA & Data Science**, je combine une solide polyvalence technique en développement logiciel et web avec la rigueur et la détermination issues de ma pratique des sports de combat[cite: 38].
+Futur expert en **IA & Data Science**, je combine une solide polyvalence technique en développement logiciel et web avec la rigueur et la détermination issues de ma pratique des sports de combat.
 
-[cite_start]🎯 **En recherche active d'une alternance en IA / Data Science pour Septembre 2026** (Rythme EPSI Paris, Bac+3)[cite: 34, 60, 61].
+🎯 **En recherche active d'une alternance en IA / Data Science pour Septembre 2026** (Rythme EPSI Paris, Bac+3).
 
 ---
 
 ## 🛠️ Compétences & Langages
 
 ### 🤖 Data Science & Intelligence Artificielle (En cours d'acquisition)
-- [cite_start]**Langages & Libs :** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, PyTorch)[cite: 22].
-- [cite_start]**Business Intelligence :** Microsoft Power BI[cite: 22].
+- **Langages & Libs :** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, PyTorch).
+- **Business Intelligence :** Microsoft Power BI.
 
 ### 💻 Développement Logiciel & Web
-- [cite_start]**Back-end :** Python (scripts & algos), C# (POO), PHP & Symfony[cite: 10, 11].
-- [cite_start]**Front-end & Mobile :** Angular, JavaScript, Dart & Flutter, HTML5 / CSS3 (Responsive)[cite: 12, 13, 14].
-- [cite_start]**Bases de données :** SQL (Gestion & requêtes), Modélisation Merise et UML[cite: 16, 17].
+- **Back-end :** Python (scripts & algos), C# (POO), PHP & Symfony.
+- **Front-end & Mobile :** Angular, JavaScript, Dart & Flutter, HTML5 / CSS3 (Responsive).
+- **Bases de données :** SQL (Gestion & requêtes), Modélisation Merise et UML.
 
 ### ⚙️ Outils & Environnements
-- [cite_start]**DevOps & Cloud :** Git, GitHub, Firebase[cite: 19].
-- [cite_start]**Systèmes & Réseaux :** Windows, MacOS, Linux, Active Directory, DNS, DHCP, pfSense[cite: 20, 50, 67].
-- [cite_start]**Méthodologies :** Optimisation du référencement naturel (SEO)[cite: 45, 65].
+- **DevOps & Cloud :** Git, GitHub, Firebase.
+- **Systèmes & Réseaux :** Windows, MacOS, Linux, Active Directory, DNS, DHCP, pfSense.
+- **Méthodologies :** Optimisation du référencement naturel (SEO).
 
 ---
 
@@ -35,7 +35,6 @@ Plateforme multiplateforme de gestion de bibliothèques de jeux vidéos personna
 ---
 
 ## 👤 Me contacter & En savoir plus
-- [cite_start]💼 **LinkedIn :** [@clément-faure-218713393](https://linkedin.com/in/clément-faure-218713393/) *(Vérifie bien ton lien exact !)* [cite: 35]
-- [cite_start]📧 **Email :** clemfaure89@gmail.com [cite: 5]
-- [cite_start]📍 **Localisation :** Paris, France [cite: 7]##
-
+- 💼 **LinkedIn :** [@clément-faure-218713393](https://linkedin.com/in/clément-faure-218713393/)
+- 📧 **Email :** clemfaure89@gmail.com
+- 📍 **Localisation :** Paris, France
