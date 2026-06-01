@@ -2,7 +2,7 @@
 
 Futur expert en **IA & Data Science**, je combine une solide polyvalence technique en développement logiciel et web avec la rigueur et la détermination issues de ma pratique des sports de combat.
 
-🎯 **En recherche active d'une alternance en IA / Data Science pour Septembre 2026** (Rythme EPSI Paris, Bac+3).
+🎯 **En recherche active d'une alternance en IA / Data Science pour Septembre 2026** (Bac+3).
 
 ---
 
